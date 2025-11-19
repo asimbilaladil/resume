@@ -12,7 +12,7 @@ endobj
 << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >> >> >>
 endobj
 5 0 obj
-<< /Length 2147 >>
+<< /Length 2221 >>
 stream
 BT
 /F1 11 Tf
@@ -20,50 +20,52 @@ BT
 1 0 0 1 72 692 Tm
 (Dear Hiring Manager,) Tj
 1 0 0 1 72 667 Tm
-(I am thrilled to apply for the Senior Software Engineer \(Platform, DevEx\)) Tj
+(I am excited to apply for the Senior Software Engineer position on the Wikidata) Tj
 1 0 0 1 72 652 Tm
-(position at Gelato, where I can leverage my skills to drive innovation in the) Tj
+(Platform team at the Wikimedia Foundation. As a seasoned backend engineer with a) Tj
 1 0 0 1 72 637 Tm
-(print industry. With a strong background in software development and a passion) Tj
+(passion for distributed systems and data platforms, I am confident that my) Tj
 1 0 0 1 72 622 Tm
-(for AI-driven solutions, I am confident that I would be a valuable addition to) Tj
-1 0 0 1 72 607 Tm
-(your team.) Tj
+(skills and experience make me an ideal fit for this role.) Tj
+1 0 0 1 72 597 Tm
+(With over 5 years of experience in designing, building, and maintaining backend) Tj
 1 0 0 1 72 582 Tm
-(As a seasoned software engineer with experience in building scalable and) Tj
+(systems and APIs, I possess a deep understanding of database and knowledge graph) Tj
 1 0 0 1 72 567 Tm
-(efficient systems, I am impressed by Gelato's commitment to sustainability and) Tj
+(representation technologies and standards. My proficiency in Java and experience) Tj
 1 0 0 1 72 552 Tm
-(its impact on the environment. I am excited about the opportunity to work on the) Tj
+(with graph databases, search indexes, and data processing pipelines will enable) Tj
 1 0 0 1 72 537 Tm
-(Internal Developer Platform \(IDP\) and contribute to the development of internal) Tj
+(me to make significant contributions to the Wikidata Query Service and related) Tj
 1 0 0 1 72 522 Tm
-(tools, APIs, and automation that streamline developer workflows. My experience) Tj
+(platform services. I am also familiar with modern observability tools and have) Tj
 1 0 0 1 72 507 Tm
-(with CI/CD pipelines, including Argo CD and Helm, aligns with the job) Tj
-1 0 0 1 72 492 Tm
-(requirements, and I am eager to bring my expertise to Gelato.) Tj
+(experience building and operating production-grade services with SLOs.) Tj
+1 0 0 1 72 482 Tm
+(I am particularly drawn to this role because of the opportunity to work on a) Tj
 1 0 0 1 72 467 Tm
-(I am particularly drawn to Gelato's AI-first approach and the use of AI-native) Tj
+(mission-driven project that promotes open knowledge and collaboration. My) Tj
 1 0 0 1 72 452 Tm
-(builders to accelerate innovation. My experience with AI-driven development and) Tj
+(experience working remotely and collaborating with teams across different time) Tj
 1 0 0 1 72 437 Tm
-(autonomous agents resonates with Gelato's vision, and I am enthusiastic about) Tj
+(zones will also enable me to seamlessly integrate with the Wikimedia) Tj
 1 0 0 1 72 422 Tm
-(contributing to the development of AI-native product features. I am impressed by) Tj
+(Foundation's fully remote team. I am impressed by the foundation's commitment to) Tj
 1 0 0 1 72 407 Tm
-(the company's culture of continuous experimentation and its commitment to) Tj
+(learning, resilience, and contributing to a mission-driven engineering culture,) Tj
 1 0 0 1 72 392 Tm
-(staying at the forefront of technological advancements.) Tj
-1 0 0 1 72 367 Tm
-(I would welcome the opportunity to discuss my application and how my skills and) Tj
+(and I am excited about the prospect of being part of a team that shares my) Tj
+1 0 0 1 72 377 Tm
+(values.) Tj
 1 0 0 1 72 352 Tm
-(experience align with Gelato's vision. Thank you for considering my application.) Tj
+(Thank you for considering my application. I would welcome the opportunity to) Tj
 1 0 0 1 72 337 Tm
-(I look forward to the opportunity to contribute to Gelato's mission.) Tj
-1 0 0 1 72 312 Tm
+(discuss my qualifications further and explore how I can contribute to the) Tj
+1 0 0 1 72 322 Tm
+(success of the Wikidata Platform team.) Tj
+1 0 0 1 72 297 Tm
 (Best regards,) Tj
-1 0 0 1 72 287 Tm
+1 0 0 1 72 272 Tm
 (Asim Bilal) Tj
 ET
 
@@ -80,5 +82,5 @@ xref
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-2598
+2672
 %%EOF
